@@ -4,5 +4,5 @@
 /**
  * 
  */
-module stock {
+module bank {
 }
