@@ -9,4 +9,5 @@
     <fullyQualifiedTypeName name="java.awt.image.renderable.RenderableImageProducer"/>
     <fullyQualifiedTypeName name="entities.Product"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="entities.Account"/>
 </qualifiedTypeNameHistroy>
