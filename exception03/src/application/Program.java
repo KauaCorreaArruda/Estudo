@@ -8,6 +8,7 @@ public class Program {
 
 	public static void main(String[] args) {
 
+		//Teste git 2
 		File file = new File("C:\\temp\\in.txt");
 		Scanner sc = null;
 		try {
